@@ -23,7 +23,7 @@ def using_unshift(array)
  
 end
 
-def using_unshift(array)
-   return array.shift()
+def shift_with_args(array)
+   return array.shift(2)
  
 end
