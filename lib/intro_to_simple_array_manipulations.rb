@@ -22,3 +22,8 @@ def using_unshift(array)
    return array.shift()
  
 end
+
+def using_unshift(array)
+   return array.shift()
+ 
+end
